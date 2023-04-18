@@ -19,15 +19,15 @@
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-0946cdc16f15.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-3946c959759a.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-9b9a8c91acc5.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-11302a585e33.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-1a4564ab0fbf.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-12a8b2aa9101.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-5924a648f3e7.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-05358496cb79.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-aad6b801a158.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/color-modes-contrast-55dbfcae56ba.css" />
   
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-7f19e915cfe8.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-f08069444ca3.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-4b09d265965c.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-17fe57b7eba6.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-2060cb336c7f.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-ec259ddb0854.css" />
 
     <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}, {&quot;id&quot;: &quot;21656311196&quot;, &quot;key&quot;: &quot;opened_downgrade_dialog&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21646510300&quot;, &quot;key&quot;: &quot;click.move_your_work&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21656151116&quot;, &quot;key&quot;: &quot;click.add_branch_protection_rule&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21663860599&quot;, &quot;key&quot;: &quot;click.downgrade_dialog_open&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21687860483&quot;, &quot;key&quot;: &quot;click.learn_about_protected_branches&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21689050333&quot;, &quot;key&quot;: &quot;click.dismiss_protect_this_branch&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21864370109&quot;, &quot;key&quot;: &quot;click.sign_in&quot;}], &quot;revision&quot;: &quot;1372&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-0179456061c8.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-971330e907fa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-327bbf-0aaeb22dd2a5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-72a9c1436e97.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-9fa8265d4c66.js"></script>
@@ -38,7 +38,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-d36001-e1c38c8467da.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_text-ex-3415a8-7ecc10fb88d0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_tab-container-element_dist_index_js-node_modules_github_auto-comp-bf192d-81631767a9f8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_view-components_app_components_primer_primer_js-node_modules_gith-38cd56-9d094fd71d8a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_view-components_app_components_primer_primer_js-node_modules_gith-38cd56-cd3455701bfc.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-87222eb5b7eb.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-b1f3671c5f7d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-9d9fe1859ce5.js"></script>
@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5dc8a3c8b8f5.js"></script>
   
 
-  <title>ExploratoryDataAnalysis/README.md at master · justannwska/ExploratoryDataAnalysis</title>
+  <title>coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1</title>
 
 
 
@@ -80,10 +80,10 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="108F:BEB8:45169A6:4600AA0:643DEDA6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="0ff591912faf7682abb6a935fc857bfc2a5c47cd1b5de9a6168c959658828e39" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qdXN0YW5ud3NrYS9FeHBsb3JhdG9yeURhdGFBbmFseXNpcy9maW5kL21hc3RlciIsInJlcXVlc3RfaWQiOiIxMDhGOkJFQjg6NDUxNjlBNjo0NjAwQUEwOjY0M0RFREE2IiwidmlzaXRvcl9pZCI6IjQ4MDg1ODQzOTc3NDc1ODMxNzYiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="ea58ffc78514aac91c91b74da987efde47ad92fcdff158ad5aaf9570f23834f2" data-turbo-transient="true" />
+  <meta name="request-id" content="0C35:44B8:A2F391:A57A68:643D9D32" data-turbo-transient="true" /><meta name="html-safe-nonce" content="0ff591912faf7682abb6a935fc857bfc2a5c47cd1b5de9a6168c959658828e39" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Ub21Mb3VzL2NvdXJzZXJhLWV4cGxvcmF0b3J5LWRhdGEtYW5hbHlzaXMtY291cnNlLXByb2plY3QtMSIsInJlcXVlc3RfaWQiOiIwQzM1OjQ0Qjg6QTJGMzkxOkE1N0E2ODo2NDNEOUQzMiIsInZpc2l0b3JfaWQiOiI0ODA4NTg0Mzk3NzQ3NTgzMTc2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="ed4c052553a326b34feba6e7392a90f89cb4a0209c751eb43dc41e197e33b797" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:242403957" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:21799268" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -114,16 +114,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="This project uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, a dataset “Individual household electric power consumption Data Set&quot; is used.  - ExploratoryDataAnalysis/README.md at master · justannwska/ExploratoryDataAnalysis">
+      <meta name="description" content="Plotting Assignment 1 for Exploratory Data Analysis - coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/b2e01c22ca604a1400a5d5412676f11cca53b2e8afc4da9f76cb85ab43656d53/justannwska/ExploratoryDataAnalysis" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ExploratoryDataAnalysis/README.md at master · justannwska/ExploratoryDataAnalysis" /><meta name="twitter:description" content="This project uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, a dataset “Individual household electric power consumption ..." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/b2e01c22ca604a1400a5d5412676f11cca53b2e8afc4da9f76cb85ab43656d53/justannwska/ExploratoryDataAnalysis" /><meta property="og:image:alt" content="This project uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, a dataset “Individual household electric power consumption ..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ExploratoryDataAnalysis/README.md at master · justannwska/ExploratoryDataAnalysis" /><meta property="og:url" content="https://github.com/justannwska/ExploratoryDataAnalysis" /><meta property="og:description" content="This project uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, a dataset “Individual household electric power consumption ..." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/093da0917fd7628abe89545807d71e7c746acdd9d99e996a73b0ca99fdaa1772/TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta name="twitter:description" content="Plotting Assignment 1 for Exploratory Data Analysis - coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/093da0917fd7628abe89545807d71e7c746acdd9d99e996a73b0ca99fdaa1772/TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta property="og:image:alt" content="Plotting Assignment 1 for Exploratory Data Analysis - coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta property="og:url" content="https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta property="og:description" content="Plotting Assignment 1 for Exploratory Data Analysis - coursera-exploratory-data-analysis-course-project-1/plot3.R at master · TomLous/coursera-exploratory-data-analysis-course-project-1" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/66190379/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NjE5MDM3OSwicyI6MTA5ODg4NzE4MSwiYyI6MjAyMTg3MjQzNCwidCI6MTY4MTc4MDEzNX0=--31eb3d604035ecd7b6c96cb61f6616ef4efa104c015f9eabdb132c91c20933c8" data-refresh-url="/_alive" data-session-id="3b3e755f82bc11ce0ec80a1a5bf655a8bc4a111e669d8fe964a4ccb5f30a4f17">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/66190379/ws?session=eyJ2IjoiVjMiLCJ1Ijo2NjE5MDM3OSwicyI6MTA5ODg4NzE4MSwiYyI6NDcyMTIyMzczLCJ0IjoxNjgxNzU5NTM4fQ==--c80852a5dcfce2c566b7320cdfee67f24856ff867b20a476768f39ac9cbeee6e" data-refresh-url="/_alive" data-session-id="3b3e755f82bc11ce0ec80a1a5bf655a8bc4a111e669d8fe964a4ccb5f30a4f17">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -138,22 +138,22 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
 
 
-  <meta http-equiv="x-pjax-version" content="c7b0f7a48c9d9ed4d90a83820a47d09c36b78f9b44a6741aec974c2ec39bc760" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="744b886fa5d774336201fe4ea7c9044d73926dcf91ead6cb2851cb0085cdc0fc" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="0db263f9a873141d8256f783c35f244c06d490aacc3b680f99794dd8fd59fb59" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="62160de2e34dce1a8941d39a1d6a0b2b54ceb2016870f18ab2bbe6310adc4ebd" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="0f873d174cfe1f3c92e51bc8ebb0bb7590316b4e3a2766d87843ae8426c389db" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="877656074f50f980c5628b07809d1d9734085992fabdce710ce3723797afa060" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="3a5bc7712bcb2c188bfde90549ca109480a51608382d831d50b83db5df61d6d0" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/justannwska/ExploratoryDataAnalysis git https://github.com/justannwska/ExploratoryDataAnalysis.git">
+  <meta name="go-import" content="github.com/TomLous/coursera-exploratory-data-analysis-course-project-1 git https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1.git">
 
-  <meta name="octolytics-dimension-user_id" content="58563895" /><meta name="octolytics-dimension-user_login" content="justannwska" /><meta name="octolytics-dimension-repository_id" content="242403957" /><meta name="octolytics-dimension-repository_nwo" content="justannwska/ExploratoryDataAnalysis" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="242403957" /><meta name="octolytics-dimension-repository_network_root_nwo" content="justannwska/ExploratoryDataAnalysis" />
+  <meta name="octolytics-dimension-user_id" content="2259971" /><meta name="octolytics-dimension-user_login" content="TomLous" /><meta name="octolytics-dimension-repository_id" content="21799268" /><meta name="octolytics-dimension-repository_nwo" content="TomLous/coursera-exploratory-data-analysis-course-project-1" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="16659106" /><meta name="octolytics-dimension-repository_parent_nwo" content="rdpeng/ExData_Plotting1" /><meta name="octolytics-dimension-repository_network_root_id" content="16659106" /><meta name="octolytics-dimension-repository_network_root_nwo" content="rdpeng/ExData_Plotting1" />
 
 
 
-    <link rel="canonical" href="https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -225,7 +225,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="242403957" data-scoped-search-url="/justannwska/ExploratoryDataAnalysis/search" data-owner-scoped-search-url="/users/justannwska/search" data-unscoped-search-url="/search" data-turbo="false" action="/justannwska/ExploratoryDataAnalysis/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="21799268" data-scoped-search-url="/TomLous/coursera-exploratory-data-analysis-course-project-1/search" data-owner-scoped-search-url="/users/TomLous/search" data-unscoped-search-url="/search" data-turbo="false" action="/TomLous/coursera-exploratory-data-analysis-course-project-1/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -246,7 +246,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="ctY0SCHADJvcAtX_VjPqI54UxgikjnSE-vE6FLFjcG27CDna5zLSnMpPrQKHyZM3iqpdXiPW0uJnk3RmRxF0XA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="PGHvp4NZ1pOm9fTmNv0mDpbrBoVRWwKSHh5nHWTeOjr1v-I1RasIlLC4jBvnB18aglWd09YDpPSDfClvkqw-Cw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -445,7 +445,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;pq70pq&quot;,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="8e6c873f8184188f9eadd58291c23d4ad644f598dd55495bb216e7b880dca92d" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;pq70pq&quot;,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="4803eb0619f01cff125a7d44a6b35cc9733dd31651cff0585c082b99d0da8dc6" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -453,7 +453,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/66190379?s=40&amp;v=4" width="20" height="20" alt="@pq70pq" />
       pq70pq
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l2kvY3V_LWmjB4BSlFE5EO6z8a-hLPxVUWa4iYpwb679uRXkyekoa48Qtzkd9O3Jpyz0-PHUZAYcjGIHbBpLfQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CNU-jB8ftFM-6PHFYqQUA9ZHGvsQd8FNHksgjz7eDTZiBQQLo4mxURL_xq7rAcDan9gfrECPWR5TofoB2LQp5Q" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -488,7 +488,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjYxOTAzNzkiLCJ0IjoxNjgxNzgwMTM1fQ==--d6caa87c3cc38a9fabc5c7bbec9b11da5d1f7c836d7bfa19725346e5e0fb18ee" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjYxOTAzNzkiLCJ0IjoxNjgxNzU5NTM4fQ==--8eb4b9f3bf39978cba3fb6457f2d3613efd1c32b2e65a5ac358b4be0f1987d19" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -631,7 +631,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjYxOTAzNzkiLCJ0IjoxNjgxNzgwMTM1fQ==--d6caa87c3cc38a9fabc5c7bbec9b11da5d1f7c836d7bfa19725346e5e0fb18ee" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjYxOTAzNzkiLCJ0IjoxNjgxNzU5NTM4fQ==--8eb4b9f3bf39978cba3fb6457f2d3613efd1c32b2e65a5ac358b4be0f1987d19" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -648,7 +648,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/justannwska/ExploratoryDataAnalysis/blob/master/README.md
+      return-to=/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R
       user-id="66190379"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -752,23 +752,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="justannwska"
-                data-id="MDQ6VXNlcjU4NTYzODk1"
+                data-text="TomLous"
+                data-id="MDQ6VXNlcjIyNTk5NzE="
                 data-type="owner"
-                data-value="justannwska"
+                data-value="TomLous"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >justannwska<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >TomLous<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="ExploratoryDataAnalysis"
-                data-id="MDEwOlJlcG9zaXRvcnkyNDI0MDM5NTc="
+                data-text="coursera-exploratory-data-analysis-course-project-1"
+                data-id="MDEwOlJlcG9zaXRvcnkyMTc5OTI2OA=="
                 data-type="repository"
-                data-value="ExploratoryDataAnalysis"
+                data-value="coursera-exploratory-data-analysis-course-project-1"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >ExploratoryDataAn...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >coursera-explorat...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -805,12 +805,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-e0c201b8-d3ed-4936-b26e-8c5745d31047" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-7b761fc1-f530-416b-a4db-4decd49c0617" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="MDEwOlJlcG9zaXRvcnkyNDI0MDM5NTc="
+        data-default-scope-id="MDEwOlJlcG9zaXRvcnkyMTc5OTI2OA=="
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1238,16 +1238,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="justannwska"
-              data-scope-id="MDQ6VXNlcjU4NTYzODk1"
+              data-page-title="TomLous"
+              data-scope-id="MDQ6VXNlcjIyNTk5NzE="
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="ExploratoryDataAnalysis"
-              data-scope-id="MDEwOlJlcG9zaXRvcnkyNDI0MDM5NTc="
+              data-page-title="coursera-exploratory-data-analysis-course-project-1"
+              data-scope-id="MDEwOlJlcG9zaXRvcnkyMTc5OTI2OA=="
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1258,14 +1258,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="justannwska"
-            data-scope-id="MDQ6VXNlcjU4NTYzODk1"
+            data-page-title="TomLous"
+            data-scope-id="MDQ6VXNlcjIyNTk5NzE="
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="ExploratoryDataAnalysis"
-            data-scope-id="MDEwOlJlcG9zaXRvcnkyNDI0MDM5NTc="
+            data-page-title="coursera-exploratory-data-analysis-course-project-1"
+            data-scope-id="MDEwOlJlcG9zaXRvcnkyMTc5OTI2OA=="
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1591,21 +1591,24 @@
         <div class="flex-auto min-width-0 width-fit mr-3">
             
   <div class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
-    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked color-fg-muted mr-2">
+    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/justannwska/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/justannwska">
-        justannwska
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/TomLous/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TomLous">
+        TomLous
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/justannwska/ExploratoryDataAnalysis">ExploratoryDataAnalysis</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/TomLous/coursera-exploratory-data-analysis-course-project-1">coursera-exploratory-data-analysis-course-project-1</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
   </div>
+    <span class="text-small lh-condensed-ultra no-wrap mt-1" data-repository-hovercards-enabled>
+      forked from <a data-hovercard-type="repository" data-hovercard-url="/rdpeng/ExData_Plotting1/hovercard" href="/rdpeng/ExData_Plotting1">rdpeng/ExData_Plotting1</a>
+    </span>
 
 
         </div>
@@ -1616,7 +1619,7 @@
       
 
   <li>
-        <include-fragment loading="lazy" src="/notifications/242403957/watch_subscription?aria_id_prefix=repository-details&amp;button_block=false&amp;show_count=true">
+        <include-fragment loading="lazy" src="/notifications/21799268/watch_subscription?aria_id_prefix=repository-details&amp;button_block=false&amp;show_count=true">
     <div data-hide-on-error>
         
             <button disabled="disabled" aria-label="Watching a repository" type="button" data-view-component="true" class="tooltipped tooltipped-n Button--secondary Button--small Button">    <span class="Button-content">
@@ -1651,32 +1654,32 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/justannwska/ExploratoryDataAnalysis/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="eddf05b36bf00dad44a522313e6e6ac67e5bbb675824d8c8bec049ddf5d4dcd8" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="5395606ff98df734073a92709df27fa0b23c7461427a94df299e9d66190ebbe1" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="5" data-view-component="true" class="Counter">5</span>
-</a>    <tool-tip id="tooltip-52811aec-17d8-471f-b1a9-ec0e51a4a298" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of justannwska/ExploratoryDataAnalysis</tool-tip>
+          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="56,530" data-view-component="true" class="Counter">56.5k</span>
+</a>    <tool-tip id="tooltip-73415a70-82f8-4043-9ea3-85c437f692f9" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of TomLous/coursera-exploratory-data-analysis-course-project-1</tool-tip>
 </div>
-      <details group_item="true" id="my-forks-menu-242403957" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+      <details group_item="true" id="my-forks-menu-21799268" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/justannwska/ExploratoryDataAnalysis/my_forks_menu_content?can_fork=true"
+      src="/TomLous/coursera-exploratory-data-analysis-course-project-1/my_forks_menu_content?can_fork=true"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cda123">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-afc375">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cda123"
+        id="filter-menu-afc375"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1718,34 +1721,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/justannwska/ExploratoryDataAnalysis/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Oej_HkzSFHEK7kCzw7OTlVoNS4OaWa7TKWXLW1t9uo5TQYGu6xUo89tn_FgDAYpXDw3RxNSPMklT__Z9ZXOJHg" autocomplete="off" />
-          <input type="hidden" value="NBzRZUR6ZZLY4skb5W81-rceDRa1s3ifOWCPTAgGMNxeta_V471ZEAlrdfAl3Sw44h6XUftl5AVD-rJqNggDTA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/TomLous/coursera-exploratory-data-analysis-course-project-1/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MsR6mcpTnX6D4ssBNo5OkYD-bUTvU11g4Z17BMsxPYwg75bg85IYbnD2TDtvQCxehM2mMqaqxEoCKM8OdNR5cw" autocomplete="off" />
+          <input type="hidden" value="OmyaNG8YKsnnMBftSRTKk8P-9oy2fdK7IO8iwgIX5rEoR3ZNVtmv2RQkkNcQ2qhcx809-v-ES5HDWpbIvfKiTg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="fa133895481cb857327c899a58caa1374dd52c97457345792058a6b2183d8488" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="74bc912a136f963ec928442f1bc96f6ffd096c330658a519954b2e5891cd9412" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (8)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Starred
-</span>              <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</button></form>        <details id="details-user-list-242403957-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>              <span id="repo-stars-counter-unstar" aria-label="8 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="8" data-view-component="true" class="Counter js-social-count">8</span>
+</button></form>        <details id="details-user-list-21799268-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/justannwska/ExploratoryDataAnalysis/lists"
+      src="/TomLous/coursera-exploratory-data-analysis-course-project-1/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-6c5031">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1f8db7">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-6c5031"
+        id="filter-menu-1f8db7"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1766,33 +1769,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/justannwska/ExploratoryDataAnalysis/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-Pfjyw8OaRb8fxn64XkPno3dJClrFkqBOd1AAcaKQqXWmUq1HlimySmHfWCd0q-GyeqKs3x-GdclMx1PZ7FKhA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/TomLous/coursera-exploratory-data-analysis-course-project-1/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0E-gsK7a11SvwTETSi7bzAZa7ZMX3WcjFBSukmReWtUGEiDvlhwOyV10Z8bpX3HDfSYrMxLW0L3Tjv5jV5iJow" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="33ebc42aee54ce7139bba528cdb2e07dcff003ab39d11e5e033d0da4c42e0f35" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="002e958a7ed47bd379f2eca97f7982d73bc65e0d7305c02acd28ebe1399f8084" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (8)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Star
-</span>              <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</button></form>        <details id="details-user-list-242403957-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>              <span id="repo-stars-counter-star" aria-label="8 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="8" data-view-component="true" class="Counter js-social-count">8</span>
+</button></form>        <details id="details-user-list-21799268-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/justannwska/ExploratoryDataAnalysis/lists"
+      src="/TomLous/coursera-exploratory-data-analysis-course-project-1/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a8c65c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3e4562">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-a8c65c"
+        id="filter-menu-3e4562"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1830,7 +1833,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/justannwska/ExploratoryDataAnalysis" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /justannwska/ExploratoryDataAnalysis" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /TomLous/coursera-exploratory-data-analysis-course-project-1" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1842,31 +1845,19 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/justannwska/ExploratoryDataAnalysis/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /justannwska/ExploratoryDataAnalysis/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
-</svg>
-        <span data-content="Issues">Issues</span>
-          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/justannwska/ExploratoryDataAnalysis/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /justannwska/ExploratoryDataAnalysis/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/pulls" data-tab-item="i1pull-requests-tab" data-selected-links="repo_pulls checks /TomLous/coursera-exploratory-data-analysis-course-project-1/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="2" data-view-component="true" class="Counter">2</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/justannwska/ExploratoryDataAnalysis/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /justannwska/ExploratoryDataAnalysis/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/actions" data-tab-item="i2actions-tab" data-selected-links="repo_actions /TomLous/coursera-exploratory-data-analysis-course-project-1/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1878,7 +1869,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/justannwska/ExploratoryDataAnalysis/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /justannwska/ExploratoryDataAnalysis/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/projects" data-tab-item="i3projects-tab" data-selected-links="repo_projects new_repo_project repo_project /TomLous/coursera-exploratory-data-analysis-course-project-1/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1890,18 +1881,30 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/justannwska/ExploratoryDataAnalysis/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /justannwska/ExploratoryDataAnalysis/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/wiki" data-tab-item="i4wiki-tab" data-selected-links="repo_wiki /TomLous/coursera-exploratory-data-analysis-course-project-1/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
+</svg>
+        <span data-content="Wiki">Wiki</span>
+          <span id="wiki-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /TomLous/coursera-exploratory-data-analysis-course-project-1/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/justannwska/ExploratoryDataAnalysis/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/TomLous/coursera-exploratory-data-analysis-course-project-1/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/justannwska/ExploratoryDataAnalysis/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /justannwska/ExploratoryDataAnalysis/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /TomLous/coursera-exploratory-data-analysis-course-project-1/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1923,31 +1926,31 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /justannwska/ExploratoryDataAnalysis" href="/justannwska/ExploratoryDataAnalysis">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /TomLous/coursera-exploratory-data-analysis-course-project-1" href="/TomLous/coursera-exploratory-data-analysis-course-project-1">
                   Code
 </a>              </li>
-              <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /justannwska/ExploratoryDataAnalysis/issues" href="/justannwska/ExploratoryDataAnalysis/issues">
-                  Issues
-</a>              </li>
-              <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /justannwska/ExploratoryDataAnalysis/pulls" href="/justannwska/ExploratoryDataAnalysis/pulls">
+              <li data-menu-item="i1pull-requests-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /TomLous/coursera-exploratory-data-analysis-course-project-1/pulls" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/pulls">
                   Pull requests
 </a>              </li>
-              <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /justannwska/ExploratoryDataAnalysis/actions" href="/justannwska/ExploratoryDataAnalysis/actions">
+              <li data-menu-item="i2actions-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /TomLous/coursera-exploratory-data-analysis-course-project-1/actions" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/actions">
                   Actions
 </a>              </li>
-              <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /justannwska/ExploratoryDataAnalysis/projects" href="/justannwska/ExploratoryDataAnalysis/projects">
+              <li data-menu-item="i3projects-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /TomLous/coursera-exploratory-data-analysis-course-project-1/projects" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/projects">
                   Projects
 </a>              </li>
+              <li data-menu-item="i4wiki-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /TomLous/coursera-exploratory-data-analysis-course-project-1/wiki" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/wiki">
+                  Wiki
+</a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /justannwska/ExploratoryDataAnalysis/security" href="/justannwska/ExploratoryDataAnalysis/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /TomLous/coursera-exploratory-data-analysis-course-project-1/security" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /justannwska/ExploratoryDataAnalysis/pulse" href="/justannwska/ExploratoryDataAnalysis/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /TomLous/coursera-exploratory-data-analysis-course-project-1/pulse" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -1989,7 +1992,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/justannwska/ExploratoryDataAnalysis/blob/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193/plot3.R">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1997,7 +2000,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="24dbfcb7e31b833cb3c39ba6aa71496c138399a4ab7176b77355b367f795c0cf">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="27bd28b8480e8f5ff32a7f5c9ab69b577c540c5be4d1fe35664097fbef79402a">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2048,12 +2051,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/justannwska/ExploratoryDataAnalysis/refs"
+            query-endpoint="/TomLous/coursera-exploratory-data-analysis-course-project-1/refs"
             
-            cache-key="v0:1582401861.0"
+            cache-key="v0:1613526558.593855"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="anVzdGFubndza2EvRXhwbG9yYXRvcnlEYXRhQW5hbHlzaXM="
+            name-with-owner="VG9tTG91cy9jb3Vyc2VyYS1leHBsb3JhdG9yeS1kYXRhLWFuYWx5c2lzLWNvdXJzZS1wcm9qZWN0LTE="
             prefetch-on-mouseover
           >
 
@@ -2078,7 +2081,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/justannwska/ExploratoryDataAnalysis/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/{{ urlEncodedRefName }}/plot3.R" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2088,7 +2091,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/justannwska/ExploratoryDataAnalysis/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/TomLous/coursera-exploratory-data-analysis-course-project-1/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2102,11 +2105,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/justannwska/ExploratoryDataAnalysis/refs"
-            cache-key="v0:1582401861.0"
+            query-endpoint="/TomLous/coursera-exploratory-data-analysis-course-project-1/refs"
+            cache-key="v0:1613526558.593855"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="anVzdGFubndza2EvRXhwbG9yYXRvcnlEYXRhQW5hbHlzaXM="
+            name-with-owner="VG9tTG91cy9jb3Vyc2VyYS1leHBsb3JhdG9yeS1kYXRhLWFuYWx5c2lzLWNvdXJzZS1wcm9qZWN0LTE="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2120,7 +2123,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/justannwska/ExploratoryDataAnalysis/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/{{ urlEncodedRefName }}/plot3.R" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2138,7 +2141,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/justannwska/ExploratoryDataAnalysis/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/TomLous/coursera-exploratory-data-analysis-course-project-1/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2181,9 +2184,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/justannwska/ExploratoryDataAnalysis"><span>ExploratoryDataAnalysis</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/TomLous/coursera-exploratory-data-analysis-course-project-1"><span>coursera-exploratory-data-analysis-course-project-1</span></a></span></span><span class="separator">/</span><strong class="final-path">plot3.R</strong>
   </h2>
-    <a href="/justannwska/ExploratoryDataAnalysis/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/TomLous/coursera-exploratory-data-analysis-course-project-1/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2192,7 +2195,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="89f3c60a2839db326089297ef6ba6fc64347acb406b069e972be1f5845d1dad3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/justannwska/ExploratoryDataAnalysis/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="646c6087b7c5f44ba1af0b10ffbfbd579033c751b259621934a8e5883a1aee2d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2204,13 +2207,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="plot3.R" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/justannwska/ExploratoryDataAnalysis/blob/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193/plot3.R" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2238,10 +2241,10 @@
   
 </div></div>
 
-    <include-fragment src="/justannwska/ExploratoryDataAnalysis/spoofed_commit_check/dcc6ddf16599adc2c28e5f68ca288416f540d424" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/TomLous/coursera-exploratory-data-analysis-course-project-1/spoofed_commit_check/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/justannwska/ExploratoryDataAnalysis/contributors/master/README.md" class="commit-loader">
+  <include-fragment src="/TomLous/coursera-exploratory-data-analysis-course-project-1/contributors/master/plot3.R" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2264,69 +2267,31 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}"
-  data-menu-hydro-click-hmac="5e5a1787d04a9c2e7c782f066337cfbe2f8bf85e1f80eef6f28d0ed731765a2b"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="428c9e7a149249f7b04cb567b946de928b9618a9ed5aa61cc909f096373e4656" href="#introduction">Introduction</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="428c9e7a149249f7b04cb567b946de928b9618a9ed5aa61cc909f096373e4656" href="#loading-the-data">Loading the data</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="428c9e7a149249f7b04cb567b946de928b9618a9ed5aa61cc909f096373e4656" href="#making-plots">Making Plots</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      47 lines (28 sloc)
+      17 lines (15 sloc)
       <span class="file-info-divider"></span>
-    3.18 KB
+    887 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/justannwska/ExploratoryDataAnalysis/blob/master/README.md?plain=1" data-permalink-href="/justannwska/ExploratoryDataAnalysis/blob/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a>      <a href="/justannwska/ExploratoryDataAnalysis/blob/master/README.md" data-permalink-href="/justannwska/ExploratoryDataAnalysis/blob/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/justannwska/ExploratoryDataAnalysis/raw/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md" href="/justannwska/ExploratoryDataAnalysis/raw/master/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/TomLous/coursera-exploratory-data-analysis-course-project-1/raw/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193/plot3.R" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/raw/master/plot3.R" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/justannwska/ExploratoryDataAnalysis/blame/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md" href="/justannwska/ExploratoryDataAnalysis/blame/master/README.md" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/TomLous/coursera-exploratory-data-analysis-course-project-1/blame/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193/plot3.R" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/blame/master/plot3.R" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2335,25 +2300,25 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/justannwska/ExploratoryDataAnalysis/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Dz5QaMMq5D-SAqZSITmRPUYzXEUtQoUQVsj3pfGYHBJlGp0WUQ1sidRD0iL8aTrlxUWxN7TwXP_ts-wYd_sGTw" autocomplete="off" />
-      <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/TomLous/coursera-exploratory-data-analysis-course-project-1/edit/master/plot3.R" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qpa4OBQ0U13t_clU2AzNqx8xOq_LIEcgCwM9HDyjPyUWvM64J8IDL8x4nQO8zDf7u8bJVqzPgPK0eNbx7Wj33w" autocomplete="off" />
+      <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:242403957,&quot;actor_id&quot;:66190379,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:21799268,&quot;actor_id&quot;:66190379,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/justannwska/ExploratoryDataAnalysis/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3e7nEU4qz6yFVk5O1fVakISobVkiz5qUwTULDeake7C3yipv3A1HGsMXOj4IpfFIB96AK7t9Q3t6ThCwYMdh7Q" autocomplete="off" />
-              <button title="Edit the file in your fork of this project" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/TomLous/coursera-exploratory-data-analysis-course-project-1/edit/master/plot3.R" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SzeMx8FJTJHwwHwhwAAeCRpR6BqBDdHEsJDeweduo9v3HfpH8r8c49FFKHakwORZvqYb4-biFhYP6zUsNqVrIQ" autocomplete="off" />
+              <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:242403957,&quot;actor_id&quot;:66190379,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:21799268,&quot;actor_id&quot;:66190379,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/justannwska/ExploratoryDataAnalysis?branch=master&amp;filepath=README.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1?branch=master&amp;filepath=plot3.R" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2364,10 +2329,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/justannwska/ExploratoryDataAnalysis/raw/dcc6ddf16599adc2c28e5f68ca288416f540d424/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/TomLous/coursera-exploratory-data-analysis-course-project-1/raw/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193/plot3.R" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="ed68f9416a99aee079e8e4aef6d75378a29c743ce7586a0cd7191d70527c3a3c" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="5dd83ddd506263b57a83fca114a3799444f61a67c1907016ddef7f4919922171" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -2392,9 +2357,9 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/justannwska/ExploratoryDataAnalysis/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8IwztgB1vcOtiNTke0FwHvFKdZqMYg_aqSyflPzknMwqj1Kem2TUMbG0HLlaIUOirovuicihww8aoha_TmEmbQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/TomLous/coursera-exploratory-data-analysis-course-project-1/delete/master/plot3.R" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JID-cywKuHtnNNSjqGYNq5-PbV71Q6D9Ja6gRRECoMCdr8fD0pJNdCraPFEbO8ZRt8Nac882o4BvLK9XzbksRQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete the file in your fork of this project" data-disable-with>
+              aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path d="M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z"></path>
 </svg>
@@ -2405,11 +2370,11 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:242403957,&quot;actor_id&quot;:66190379,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:21799268,&quot;actor_id&quot;:66190379,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
@@ -2420,20 +2385,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/justannwska/ExploratoryDataAnalysis?branch=master&amp;filepath=README.md">
+                   href="x-github-client://openRepo/https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1?branch=master&amp;filepath=plot3.R">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/justannwska/ExploratoryDataAnalysis/raw/master/README.md">
+            <a class="dropdown-item" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/raw/master/plot3.R">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/justannwska/ExploratoryDataAnalysis/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/TomLous/coursera-exploratory-data-analysis-course-project-1/raw/master/plot3.R" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:242403957,&quot;originating_url&quot;:&quot;https://github.com/justannwska/ExploratoryDataAnalysis/blob/master/README.md&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="ed68f9416a99aee079e8e4aef6d75378a29c743ce7586a0cd7191d70527c3a3c">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:21799268,&quot;originating_url&quot;:&quot;https://github.com/TomLous/coursera-exploratory-data-analysis-course-project-1/blob/master/plot3.R&quot;,&quot;user_id&quot;:66190379}}" data-hydro-click-hmac="5dd83ddd506263b57a83fca114a3799444f61a67c1907016ddef7f4919922171">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2456,20 +2421,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/justannwska/ExploratoryDataAnalysis/blame/master/README.md">
+              <a class="dropdown-item" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/blame/master/plot3.R">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/justannwska/ExploratoryDataAnalysis/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/edit/master/plot3.R">Edit file</a>
               </li>
                 <li>
-                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:242403957,&quot;actor_id&quot;:66190379,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
+                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:21799268,&quot;actor_id&quot;:66190379,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/justannwska/ExploratoryDataAnalysis/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/delete/master/plot3.R">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2477,49 +2442,138 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><strong>Introduction</strong></h1>
-<p dir="auto">This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:</p>
-<p dir="auto">Dataset: Electric power consumption [20Mb]</p>
-<p dir="auto">Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.</p>
-<p dir="auto">The following descriptions of the 9 variables in the dataset are taken from the UCI web site:</p>
-<ul dir="auto">
-<li>Date: Date in format dd/mm/yyyy <br></li>
-<li>Time: time in format hh:mm:ss<br></li>
-<li>Global_active_power: household global minute-averaged active power (in kilowatt)<br></li>
-<li>Global_reactive_power: household global minute-averaged reactive power (in kilowatt)<br></li>
-<li>Voltage: minute-averaged voltage (in volt)<br></li>
-<li>Global_intensity: household global minute-averaged current intensity (in ampere)<br></li>
-<li>Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).<br></li>
-<li>Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.<br></li>
-<li>Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.<br></li>
-</ul>
-<h1 dir="auto"><a id="user-content-loading-the-data" class="anchor" aria-hidden="true" href="#loading-the-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><strong>Loading the data</strong></h1>
-<p dir="auto">When loading the dataset into R, please consider the following:</p>
-<p dir="auto">The dataset has 2,075,259 rows and 9 columns. First calculate a rough estimate of how much memory the dataset will require in memory before reading into R. Make sure your computer has enough memory (most modern computers should be fine).</p>
-<p dir="auto">We will only be using data from the dates 2007-02-01 and 2007-02-02. One alternative is to read the data from just those dates rather than reading in the entire dataset and subsetting to those dates.</p>
-<p dir="auto">You may find it useful to convert the Date and Time variables to Date/Time classes in R using the strptime() and as.Date() functions.</p>
-<p dir="auto">Note that in this dataset missing values are coded as ?.</p>
-<h1 dir="auto"><a id="user-content-making-plots" class="anchor" aria-hidden="true" href="#making-plots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><strong>Making Plots</strong></h1>
-<p dir="auto">Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.</p>
-<p dir="auto">First you will need to fork and clone the following GitHub repository: <a href="https://github.com/rdpeng/ExData_Plotting1">https://github.com/rdpeng/ExData_Plotting1</a></p>
-<p dir="auto">For each of the 3 plots you should</p>
-<ul dir="auto">
-<li>
-<p dir="auto">Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.</p>
-</li>
-<li>
-<p dir="auto">Name each of the plot files as plot1.png, plot2.png, etc.</p>
-</li>
-</ul>
-<p dir="auto">Create a separate R code file (plot1.R, plot2.R, etc.) that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You should also include the code that creates the PNG file.</p>
-<p dir="auto">Add the PNG file and R code file to your git repository</p>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-r  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="R" data-tagsearch-path="plot3.R">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">dataFile</span> <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">&quot;</span>./data/household_power_consumption.txt<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">data</span> <span class="pl-k">&lt;-</span> read.table(<span class="pl-smi">dataFile</span>, <span class="pl-v">header</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>;<span class="pl-pds">&quot;</span></span>, <span class="pl-v">stringsAsFactors</span><span class="pl-k">=</span><span class="pl-c1">FALSE</span>, <span class="pl-v">dec</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>.<span class="pl-pds">&quot;</span></span>)</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">subSetData</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">data</span>[<span class="pl-smi">data</span><span class="pl-k">$</span><span class="pl-smi">Date</span> <span class="pl-k">%in%</span> c(<span class="pl-s"><span class="pl-pds">&quot;</span>1/2/2007<span class="pl-pds">&quot;</span></span>,<span class="pl-s"><span class="pl-pds">&quot;</span>2/2/2007<span class="pl-pds">&quot;</span></span>) ,]</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>str(subSetData)</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">datetime</span> <span class="pl-k">&lt;-</span> strptime(paste(<span class="pl-smi">subSetData</span><span class="pl-k">$</span><span class="pl-smi">Date</span>, <span class="pl-smi">subSetData</span><span class="pl-k">$</span><span class="pl-smi">Time</span>, <span class="pl-v">sep</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span> <span class="pl-pds">&quot;</span></span>), <span class="pl-s"><span class="pl-pds">&quot;</span>%d/%m/%Y %H:%M:%S<span class="pl-pds">&quot;</span></span>) </td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">globalActivePower</span> <span class="pl-k">&lt;-</span> as.numeric(<span class="pl-smi">subSetData</span><span class="pl-k">$</span><span class="pl-smi">Global_active_power</span>)</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">subMetering1</span> <span class="pl-k">&lt;-</span> as.numeric(<span class="pl-smi">subSetData</span><span class="pl-k">$</span><span class="pl-smi">Sub_metering_1</span>)</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">subMetering2</span> <span class="pl-k">&lt;-</span> as.numeric(<span class="pl-smi">subSetData</span><span class="pl-k">$</span><span class="pl-smi">Sub_metering_2</span>)</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">subMetering3</span> <span class="pl-k">&lt;-</span> as.numeric(<span class="pl-smi">subSetData</span><span class="pl-k">$</span><span class="pl-smi">Sub_metering_3</span>)</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">png(<span class="pl-s"><span class="pl-pds">&quot;</span>plot3.png<span class="pl-pds">&quot;</span></span>, <span class="pl-v">width</span><span class="pl-k">=</span><span class="pl-c1">480</span>, <span class="pl-v">height</span><span class="pl-k">=</span><span class="pl-c1">480</span>)</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">plot(<span class="pl-smi">datetime</span>, <span class="pl-smi">subMetering1</span>, <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>l<span class="pl-pds">&quot;</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>Energy Submetering<span class="pl-pds">&quot;</span></span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">lines(<span class="pl-smi">datetime</span>, <span class="pl-smi">subMetering2</span>, <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>l<span class="pl-pds">&quot;</span></span>, <span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>red<span class="pl-pds">&quot;</span></span>)</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">lines(<span class="pl-smi">datetime</span>, <span class="pl-smi">subMetering3</span>, <span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>l<span class="pl-pds">&quot;</span></span>, <span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>blue<span class="pl-pds">&quot;</span></span>)</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">legend(<span class="pl-s"><span class="pl-pds">&quot;</span>topright<span class="pl-pds">&quot;</span></span>, c(<span class="pl-s"><span class="pl-pds">&quot;</span>Sub_metering_1<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Sub_metering_2<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>Sub_metering_3<span class="pl-pds">&quot;</span></span>), <span class="pl-v">lty</span><span class="pl-k">=</span><span class="pl-c1">1</span>, <span class="pl-v">lwd</span><span class="pl-k">=</span><span class="pl-c1">2.5</span>, <span class="pl-v">col</span><span class="pl-k">=</span>c(<span class="pl-s"><span class="pl-pds">&quot;</span>black<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>red<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>blue<span class="pl-pds">&quot;</span></span>))</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">dev.off()</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/TomLous/coursera-exploratory-data-analysis-course-project-1/blame/f9c0e25f17f5e3ab7f37e3ae484861d68e0aa193/plot3.R">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
@@ -2543,7 +2597,7 @@
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
       aria-label="Provide feedback"
-      src="/justannwska/ExploratoryDataAnalysis/repos/code_nav_survey"
+      src="/TomLous/coursera-exploratory-data-analysis-course-project-1/repos/code_nav_survey"
       
     >
     <div class="Box-header">
